@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Hajara 👋  
 
-<!--
-**24bpkr0032-design/24bpkr0032-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BCA AI Student** at Jain University | **Java & Robotics Enthusiast**  
+💻 Passionate about AI, Machine Learning, and building impactful tech solutions  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- **Programming Languages:** Java, Python, C, C++, HTML  
+- **AI & ML:** Machine Learning fundamentals, model building & evaluation  
+- **Development Tools:** GitHub, VS Code, Eclipse  
+
+---
+
+## 📌 Featured Projects
+- *(Coming soon — will be updated as I upload my work)*  
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hajara%20Abbas-blue?logo=linkedin)](https://www.linkedin.com/in/hajra-abbas-6a19b12b3)  
+📧 **Email:** *(Add here if you want)*  
+
+---
+
+## 📊 GitHub Stats
+![Hajara's GitHub stats](https://github-readme-stats.vercel.app/api?username=24bpkr0032-design&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=24bpkr0032-design&layout=compact)  
+
+---
+
+💡 *“Code is like humor. When you have to explain it, it’s bad.”*  
+
